@@ -67,6 +67,6 @@ Vertical Slice Architectureで整理し、Value ObjectでAccount/Amount/Category
 見覚えのある感じ。
 そこはかとなくJavaみを感じる。
 
-- [repo](https://github.com/hideyuki-hori/lab-rust-di/tree/main/shaku-0-6-2)
+- [lab-rust-di/shaku-0-6-2](https://github.com/hideyuki-hori/lab-rust-di/tree/main/shaku-0-6-2)
 - [Rust の DI を試す / shaku](https://zenn.dev/hideyuki_hori/articles/95fef715b330ae)
 
