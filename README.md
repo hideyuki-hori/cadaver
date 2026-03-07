@@ -38,7 +38,7 @@ cadaverの基盤となるEventSourcing/CQRSの設計パターンを、Rust × Ku
 }
 ```
 
-aggregateするときにtypeとversionで集め方を分岐する。
+aggregateするときにkindとversionで集め方を分岐する。
 
 これならrdbじゃなくても(なんならtextファイルでも)なんとかなるかと思い、であればEventStoreに特化したDBを試したくなった。
 で保存できたらどうとでもなるのでは？EventStoreのDBを試したい。
